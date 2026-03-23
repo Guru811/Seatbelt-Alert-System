@@ -41,7 +41,7 @@ SAFE: Person seated and belt fastened correctly.
 
 ## Simulation
 Built and tested on Tinkercad Circuits.
-Link: https://www.tinkercad.com/things/blLkk8v5BQ5-seatbelt-alert-system
+Link: https://www.tinkercad.com/things/blLkk8v5BQ5-seatbelt-alert-system?sharecode=tPoJGYPufZ4OtDsuUtCr-CjwHIu2nuH4Z0zcj2keLOk
 
 ## Author
 Gurshant Singh
