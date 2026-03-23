@@ -20,6 +20,8 @@ LED + 220Ω resistor (Pin 13)
 All buttons/switches wired with INPUT_PULLUP
 No external pull-down resistors needed
 Simulated on Tinkercad
+
+
 <img src="circuit.png" width="600"/>
 
 ## Serial Monitor Output
