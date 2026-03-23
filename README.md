@@ -21,6 +21,7 @@ All buttons/switches wired with INPUT_PULLUP
 No external pull-down resistors needed
 Simulated on Tinkercad
 ![Circuit Diagram](circuit.png)
+<img src="circuit.png" width="600"/>
 
 ## Serial Monitor Output
 ```
